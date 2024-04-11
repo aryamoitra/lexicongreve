@@ -1,6 +1,6 @@
 ---
-title: bootstrap5-template Demo
+title:
 layout: page
 ---
 
-{% include jumbotron.html heading=site.title text="Create a site from a basic bootstrap template" button-text="Learn More" button-link="about.html" %}
+{% include jumbotron.html heading=site.title text="An analysis of William Congreve's characters using topic modelling" %}
