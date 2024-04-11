@@ -1,6 +1,6 @@
 ---
 title:
-layout: page
+layout: page-narrow
 ---
 
-{% include jumbotron.html heading=site.title text="An analysis of William Congreve's characters using topic modelling" ![Alt text](images/lexicongreve-logo.svg)%}
+{% include jumbotron-custom.html heading=site.title %}
