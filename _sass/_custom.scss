@@ -1,10 +1,13 @@
 /* add your scss tweaks here */
 /* fonts */
-@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Whisper&display=swap');
+@font-face {
+    font-family: "GrenzeGotisch-SemiBold";
+    src: url(../../fonts/Grenze_Gotisch/static/GrenzeGotisch-SemiBold.ttf) format('truetype');
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
 
 h1 {
-    font-family: "Grenze Gotisch", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  }  
+    font-family: "GrenzeGotisch-SemiBold";
+}  
