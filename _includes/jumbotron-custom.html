@@ -1,3 +1,6 @@
+{%- comment -%}
+Jumbotron with a custom logo 
+{%- endcomment -%}
 <div class="p-2 mb-4 bg-{{ include.bg | default: 'light' }} rounded-3{% if include.border %} border{% endif %}">
     <div class="container-fluid py-5{% if include.text-color %} text-{{ include.text-color }}{% endif %}">
         <div class="row align-items-center">
@@ -5,7 +8,11 @@
                 <img src="./images/lexicongreve-logo-no-text.svg" class="img-fluid">
             </div>
             <div class="col-md text-center">
-                {% if include.heading %}<h1 class="display-5 fw-bold" style="font-size: 70px;">{{ include.heading }}</h1>{% endif %}
+                {% if include.heading %}
+                <h1 class="display-5 fw-bold" style="font-size: clamp(55px, 7vw, 70px);">
+                    {{ include.heading }}
+                </h1>
+                {% endif %}
             </div>
         </div>
     </div>
