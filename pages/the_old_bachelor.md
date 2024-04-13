@@ -1,4 +1,5 @@
 ---
+title:
 analysis_menu_nav: The Old Bachelor (1693)
 analysis_menu_nav_order: 0
 layout: page-narrow

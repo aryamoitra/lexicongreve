@@ -1,4 +1,5 @@
 ---
+title:
 analysis_menu_nav: Test
 analysis_menu_nav_order: 5
 layout: page-narrow

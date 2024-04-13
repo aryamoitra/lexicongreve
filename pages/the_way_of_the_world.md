@@ -1,4 +1,5 @@
 ---
+title:
 analysis_menu_nav: The Way of the World (1700)
 analysis_menu_nav_order: 4
 layout: page-narrow
