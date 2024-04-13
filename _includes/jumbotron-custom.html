@@ -1,6 +1,4 @@
-{%- comment -%}
-Jumbotron with a custom logo 
-{%- endcomment -%}
+<!-- Jumbotron with a custom logo -->
 <div class="p-2 mb-4 bg-{{ include.bg | default: 'light' }} rounded-3{% if include.border %} border{% endif %}">
     <div class="container-fluid py-5{% if include.text-color %} text-{{ include.text-color }}{% endif %}">
         <div class="row align-items-center">
@@ -9,7 +7,7 @@ Jumbotron with a custom logo
             </div>
             <div class="col-md text-center">
                 {% if include.heading %}
-                <h1 class="display-5 fw-bold" style="font-size: clamp(55px, 7vw, 70px);">
+                <h1 class="display-5 fw-bold" style="font-size: clamp(50px, 7vw, 70px);">
                     {{ include.heading }}
                 </h1>
                 {% endif %}

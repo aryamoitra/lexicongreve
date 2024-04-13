@@ -1,7 +1,7 @@
 ---
-title: Example Page
-nav: Example
-nav_order: 1
+analysis_menu_nav: Test
+analysis_menu_nav_order: 5
+layout: page-narrow
 ---
 
 Write pages in Markdown.
