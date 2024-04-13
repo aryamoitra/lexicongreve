@@ -1,11 +1,10 @@
 ---
-title:
+title: The Way of the World (1700)
 analysis_menu_nav: The Way of the World (1700)
 analysis_menu_nav_order: 4
 layout: page-narrow
 ---
 
-## **The Way of the World (1700)**
 <hr/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus sit amet volutpat consequat mauris. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Consequat nisl vel pretium lectus. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Elementum curabitur vitae nunc sed velit. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Vitae congue mauris rhoncus aenean vel elit scelerisque. Urna molestie at elementum eu facilisis. Libero enim sed faucibus turpis. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Velit dignissim sodales ut eu sem integer vitae justo. Tempor nec feugiat nisl pretium fusce id velit.
 

@@ -1,13 +1,12 @@
 ---
-title: Test
+title: Methodology
 nav: Methodology
 nav_order: 1
 layout: page-narrow
 ---
 
-## **Methodology**
 <hr/>
-orem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus sit amet volutpat consequat mauris. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Consequat nisl vel pretium lectus. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Elementum curabitur vitae nunc sed velit. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Vitae congue mauris rhoncus aenean vel elit scelerisque. Urna molestie at elementum eu facilisis. Libero enim sed faucibus turpis. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Velit dignissim sodales ut eu sem integer vitae justo. Tempor nec feugiat nisl pretium fusce id velit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus sit amet volutpat consequat mauris. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Consequat nisl vel pretium lectus. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Elementum curabitur vitae nunc sed velit. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Vitae congue mauris rhoncus aenean vel elit scelerisque. Urna molestie at elementum eu facilisis. Libero enim sed faucibus turpis. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Velit dignissim sodales ut eu sem integer vitae justo. Tempor nec feugiat nisl pretium fusce id velit.
 
 {% include figure.html img="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="Graphs of performance analytics on a laptop screen" %}
 

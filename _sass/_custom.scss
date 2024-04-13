@@ -10,12 +10,14 @@
 * {
    font-family: "Times New Roman"
 }
-h1 {
-    font-family: "GrenzeGotisch-SemiBold";
-}
 body {
     font-size: 19px;
     text-align: justify;
+}
+
+/* Custom class for home page title font  */
+.home-page-title {
+    font-family: "GrenzeGotisch-SemiBold";
 }
 
 /* Always display a vertical scrollbar */
