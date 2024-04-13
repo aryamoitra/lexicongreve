@@ -1,5 +1,5 @@
 ---
-title:
+title: Test
 nav: Methodology
 nav_order: 1
 layout: page-narrow
