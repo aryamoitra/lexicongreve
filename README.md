@@ -1,5 +1,4 @@
 # LexiCongreve
-<hr/>
 The LexiCongreve Project is a demonstration of data visualisation based on William Congreve's comedies. The computationally analysed data is visualised in three ways:
 
 - **Gended-Based Token Ratio:** The ratio of tokens (which refer to words in this context) spoken by women to the ones spoken by men and vice versa is presented using bar graphs.
@@ -9,15 +8,12 @@ The LexiCongreve Project is a demonstration of data visualisation based on Willi
 - **Flesch-Kincaid Readability Tests:** After applying the Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) formulas on all of the lines spoken by each character, the scores are displaying using bar graphs and scatter plots.
 
 ## Viewing the Visualisations
-<hr/>
 To view the visualisation, visit the <a href="https://aryamoitra.github.io/lexicongreve/" target="_blank">static website</a> in your browser.
 
 ## Methodology
-<hr/>
 The XML-encoded textual content has been sourced from <a href="https://earlyprint.org/" target="_blank">EarlyPrint</a>. The data was extracted, analysed, and visualised using <a href="https://www.python.org/" target="_blank">Python</a> and various libraries, such as the <a href="https://www.nltk.org/" target="_blank">Natural Language Toolkit (NLTK)</a>, <a href="https://github.com/mholtzscher/syllapy" target="_blank">syllapy</a>, <a href="https://docs.python.org/3/library/statistics.html" target="_blank">statistics</a>, <a href="https://pandas.pydata.org/" target="_blank">pandas</a>, and <a href="https://plotly.com/python/" target="_blank">plotly</a>. A detailed description of the methology can be found <a href="https://aryamoitra.github.io/lexicongreve/methodology.md/" target="_blank">here</a>.
 
 ## License
-<hr/>
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
