@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="row">
+        <div class="col text-start">
+            {% if include.previous %}
+              {% if include.centered %}
+                <div class="text-center mb-3">
+              {% endif %}
+              <a class="btn{% if include.previous_size %} btn-{{ include.previous_size | default: 'lg' }}{% endif %} btn-{{ include.previous_color | default: 'dark' }}{% if include.previous_width %} w-{{ include.previous_width }}{% endif %}" href="{{ include.previous_link | relative_url }}" rel="noopener">{{ include.previous }}</a>
+              {% if include.centered %}
+                </div>
+              {% endif %}
+            {% endif %}
+        </div>          
+      <div class="col text-end">
+        {% if include.next %}
+          {% if include.centered %}
+            <div class="text-center mb-3">
+          {% endif %}
+          <a class="btn{% if include.next_size %} btn-{{ include.next_size | default: 'lg' }}{% endif %} btn-{{ include.next_color | default: 'dark' }}{% if include.next_width %} w-{{ include.next_width }}{% endif %}" href="{{ include.next_link | relative_url }}" rel="noopener">{{ include.next }}</a>
+          {% if include.centered %}
+            </div>
+          {% endif %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  
