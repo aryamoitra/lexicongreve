@@ -84,3 +84,5 @@ Instead of using separate bar graphs for FRE and FKGL, the scores obtained using
 </div>
 
 As the formulas are solely based on superficial features of text, not taking elements such as the reader's vocabulary or background into account, the scores do not fully reflect the ease of comprehension. Nevertheless, the tests still provide some reliable results. Major characters, such as Heartwell, Angelica, Mirabell, and so on, obviously have above average FKGL scores and below average FRE scores. Compared to the other characters in *The Double Dealer*, Maskwell has a significantly high FKGL score and a very low FRE score. These scores are in agreement with his scheming nature.
+
+{% include page-change.html previous="Previous Page" previous_width=50 previous_link="/average_speech_length.html" %}
