@@ -18,7 +18,7 @@
                     <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Analysis
                     </a>
-                    <ul class="dropdown-menu">
+                    <ul class="dropdown-menu" color="#000000">
                     {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.analysis_menu_nav' | sort: 'analysis_menu_nav_order' %}
                     {% for p in analysis_pages %}
                         <li><a class="dropdown-item" href="{{ p.url | relative_url }}">{{ p.analysis_menu_nav }}</a></li>
