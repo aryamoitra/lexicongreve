@@ -5,7 +5,7 @@ The LexiCongreve Project is a demonstration of data visualisation based on Willi
 
 - **Average Speech Length:** The average length of every character's speeches in every act is visualised using line graphs.
 
-- **Flesch-Kincaid Readability Tests:** After applying the Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) formulas on all of the lines spoken by each character, the scores are displayed using bar graphs and scatter plots.
+- **Flesch-Kincaid Readability Tests:** Applying the Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) formulas on all of the lines spoken by each character, the resulting scores are displayed using bar graphs and scatter plots.
 
 ## Viewing the Visualisations
 To view the visualisations, visit the <a href="https://aryamoitra.github.io/lexicongreve/" target="_blank">static website</a> in your browser.
