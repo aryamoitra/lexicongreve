@@ -1,5 +1,5 @@
 # LexiCongreve
-The LexiCongreve Project is a demonstration of data visualisation based on William Congreve's comedies. The computationally analysed data is visualised in three ways:
+The LexiCongreve Project features a demonstration of data visualisation based on William Congreve's comedies. The computationally analysed data is visualised in three ways:
 
 - **Gender-Based Token Ratio:** The ratio of tokens (which refer to words in this context) spoken by women to the ones spoken by men and vice versa is presented using bar graphs.
 
