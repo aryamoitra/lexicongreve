@@ -1,7 +1,7 @@
 # LexiCongreve
 The LexiCongreve Project features a demonstration of data visualisation based on William Congreve's comedies. The computationally analysed data is visualised in three ways:
 
-- **Gender-Based Token Ratio:** The ratio of tokens (which refer to words in this context) spoken by women to the ones spoken by men and vice versa is presented using bar graphs.
+- **Gender-Based Token Ratio:** The ratio of tokens (which refer to words in this context) spoken by women to the ones spoken by men and vice versa are presented using bar graphs.
 
 - **Average Speech Length:** The average length of every character's speeches in every act is visualised using line graphs.
 
