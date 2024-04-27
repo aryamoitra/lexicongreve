@@ -49,39 +49,24 @@ Applying the formulas to all the lines spoken by a character can yield interesti
 </div>
 
 <hr/>
-Instead of using separate bar graphs for FRE and FKGL, the scores obtained using the two different formulas can be presented together using scatter plots: 
+Instead of using separate bar graphs for FRE and FKGL, the scores obtained using the two different formulas can be presented together using scatter plots. Once again, the different modes can be accessed using the dropdown menu at the top right of every graph: 
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tob_men_flesch_kincaid_scatter.html"></iframe> 
+    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tob_flesch_kincaid_scatter.html"></iframe> 
 </div>
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tob_women_flesch_kincaid_scatter.html"></iframe> 
+    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tdd_flesch_kincaid_scatter.html"></iframe> 
 </div>
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tdd_men_flesch_kincaid_scatter.html"></iframe> 
+    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/lfl_flesch_kincaid_scatter.html"></iframe> 
 </div>
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/tdd_women_flesch_kincaid_scatter.html"></iframe> 
+    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/twotw_flesch_kincaid_scatter.html"></iframe> 
 </div>
 
-<div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/lfl_men_flesch_kincaid_scatter.html"></iframe> 
-</div>
-
-<div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/lfl_women_flesch_kincaid_scatter.html"></iframe> 
-</div>
-
-<div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/twotw_men_flesch_kincaid_scatter.html"></iframe> 
-</div>
-
-<div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/flesch-kincaid/scatter-plots/twotw_women_flesch_kincaid_scatter.html"></iframe> 
-</div>
 
 As the formulas are solely based on superficial features of text, not taking elements such as the reader's vocabulary or background into account, the scores do not fully reflect the ease of comprehension. Nevertheless, the tests still provide some reliable results. Major characters, such as Heartwell, Angelica, Mirabell, and so on, obviously have above average FKGL scores and below average FRE scores. Compared to the other characters in *The Double Dealer*, Maskwell has a significantly high FKGL score and a very low FRE score. These scores are in agreement with the attention given to him and his scheming nature in the play.
 
