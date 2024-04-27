@@ -43,3 +43,15 @@ body {
     width: 100%;
     height: 100%;
 }
+
+/* Modify "Analysis" menu */
+.analysis-dropdown {
+    background-color: #4f4e4e;
+    color: #ffffff;
+}
+.analysis-dropdown .dropdown-item {
+    color: #ffffff;
+}
+.analysis-dropdown .dropdown-item:hover {
+    background-color: #000000;
+}

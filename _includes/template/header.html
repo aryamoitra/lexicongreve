@@ -15,11 +15,11 @@
 
                 <!-- Create a dropdown menu named "Analysis" and add pages to it if specified -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle{% if page.url contains '/analysis' %} active{% endif %}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Analysis
                     </a>
-                    <ul class="dropdown-menu" color="#000000">
-                    {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.analysis_menu_nav' | sort: 'analysis_menu_nav_order' %}
+                    <ul class="dropdown-menu analysis-dropdown">
+                    {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.analysis_menu_nav' | where_exp: 'p', 'p.path contains "analysis"' | sort: 'analysis_menu_nav_order' %}
                     {% for p in analysis_pages %}
                         <li><a class="dropdown-item" href="{{ p.url | relative_url }}">{{ p.analysis_menu_nav }}</a></li>
                     {% endfor %}
@@ -28,7 +28,10 @@
 
                 <!-- Create an About page at the end -->
                 <li class="nav-item">
-                    <a class="nav-link{% if page.url == './about.html' %} active{% endif %}" {% if page.url == "./about.html" %}aria-current="page"{% endif %} href="./about.html">About</a>
+                    {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.path contains "about"'%}
+                    {% for p in analysis_pages %}
+                    <a class="nav-link{% if page.url == p.url %} active{% endif %}" {% if page.url == "./about.html" %}aria-current="page"{% endif %} href="{{ p.url | relative_url }}">About</a>
+                    {% endfor %}
                 </li>
 
             </ul>
