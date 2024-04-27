@@ -1,4 +1,5 @@
 ---
+permalink: /analysis/ratio.html
 title: Gender-Based Token Ratio
 analysis_menu_nav: Gender-Based Token Ratio
 analysis_menu_nav_order: 0
@@ -191,15 +192,15 @@ Looking at the dramatis personae of a work gives one a rudimentary idea of gende
 One of the possible ways of going beyond this rudimentary understanding of representation and Congreve's treatment of the gender binary is to calculate the ratio of words spoken by women to the ones spoken by men, and vice versa to visualise the data from both perspectives. The results of the calculations are presented below as bar graphs:
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/ratio/women-to-men.html"></iframe> 
+    <iframe class="responsive-iframe" src="../data-visualisation/ratio/women-to-men.html"></iframe> 
 </div>
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
-    <iframe class="responsive-iframe" src="./data-visualisation/ratio/men-to-women.html"></iframe> 
+    <iframe class="responsive-iframe" src="../data-visualisation/ratio/men-to-women.html"></iframe> 
 </div>
 
 The thresholds in the graphs signify equal distribution of words. Interestingly, only *The Way of the World* seems to have a balanced distribution from a gendered perspective, having a ratio that is close to 1.
 <br/>
 <br/>
-{% include page-change.html next="Next Page" next_width=50 next_link="/average_speech_length.html" %}
+{% include page-change.html next="Next Page" next_width=50 next_link="/analysis/average_speech_length.html" %}
 
