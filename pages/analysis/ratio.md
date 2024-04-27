@@ -202,5 +202,5 @@ One of the possible ways of going beyond this rudimentary understanding of repre
 The thresholds in the graphs signify equal distribution of words. Interestingly, only *The Way of the World* seems to have a balanced distribution from a gendered perspective, having a ratio that is close to 1.
 <br/>
 <br/>
-{% include page-change.html next="Next Page" next_width=75 next_link="/analysis/average_speech_length.html" previous="Previous Page" previous_width=75 previous_link="/methodology.html" %}
+{% include page-change.html next="Next" next_width=75 next_link="/analysis/average_speech_length.html" previous="Previous" previous_width=75 previous_link="/methodology.html" %}
 

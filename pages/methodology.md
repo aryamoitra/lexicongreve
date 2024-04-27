@@ -15,4 +15,4 @@ The process of properly collecting, analysing, and visualising data includes mul
 - **Data Visualisation:** Finally, I used <a href="https://pandas.pydata.org/" target="_blank">pandas</a> to create DataFrames and <a href="https://plotly.com/python/" target="_blank">plotly</a> to make interactive graphs based on the analyses.
 <br/>
 <br/>
-{% include page-change.html next="Next Page" next_width=75 next_link="/analysis/ratio.html" previous="Previous Page" previous_width=75 previous_link="/" %}
+{% include page-change.html next="Next" next_width=75 next_link="/analysis/ratio.html" previous="Previous" previous_width=75 previous_link="/" %}
