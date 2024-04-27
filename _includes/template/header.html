@@ -28,7 +28,7 @@
 
                 <!-- Create an About page at the end -->
                 <li class="nav-item">
-                    {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.path contains "about"'%}
+                    {% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.title contains "About"'%}
                     {% for p in analysis_pages %}
                     <a class="nav-link{% if page.url == p.url %} active{% endif %}" {% if page.url == "./about.html" %}aria-current="page"{% endif %} href="{{ p.url | relative_url }}">About</a>
                     {% endfor %}
