@@ -185,7 +185,7 @@ The characters included in the dramatis personae in every one of Congreve's come
 </table>
 {% endcapture %}
 
-{% include accordion-custom.html title1="The Old Bachelor (1693)" text1=tob_content title2="The Double Dealer (1693)" text2=tdd_content title3="Love for Love (1695)" text3=lfl_content title4="The Way of the World (1700)" text4=twotw_content %}
+{% include accordion-custom.html title1="The Old Bachelor (1693)" text1=tob_content title2="The Double Dealer (1694)" text2=tdd_content title3="Love for Love (1695)" text3=lfl_content title4="The Way of the World (1700)" text4=twotw_content %}
 
 Looking at the dramatis personae of a work gives one a rudimentary idea of gender representation in the plot. Nevertheless, the tables above only contain men and women whom the dramatist considered significant enough to categorically list at the beginning of his works, excluding nameless minor charcaters who appear at the end of these lists of characters, such as footmen, attendants, boys, and so on, as well as characters who appear in the play but are not mentioned at the beginning, such as Barnaby from *The Old Bachelor* and Peg from *The Way of the World*. Only the characters mentioned in these tables are the focus of the analyses.
 
