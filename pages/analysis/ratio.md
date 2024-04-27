@@ -189,7 +189,7 @@ The characters included in the dramatis personae in every one of Congreve's come
 
 Looking at the dramatis personae of a work gives one a rudimentary idea of gender representation in the plot. Nevertheless, the tables above only contain men and women whom the dramatist considered significant enough to categorically list at the beginning of his works, excluding nameless minor charcaters who appear at the end of these lists of characters, such as footmen, attendants, boys, and so on, as well as characters who appear in the play but are not mentioned at the beginning, such as Barnaby from *The Old Bachelor* and Peg from *The Way of the World*. Only the characters mentioned in these tables are the focus of the analyses.
 
-One of the possible ways of going beyond this rudimentary understanding of representation and Congreve's treatment of the gender binary is to calculate the ratio of words spoken by women to the ones spoken by men, and vice versa to visualise the data from both perspectives. The results of the calculations are presented below as bar graphs:
+One of the possible ways of going beyond this rudimentary understanding of representation and Congreve's treatment of the gender binary is to calculate the ratio of words spoken by women to the ones spoken by men, and vice versa to visualise the data from both perspectives. The results of the calculations are presented below as bar graphs. If you are viewing the graphs from a phone, consider using landscape mode for a better experience.
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
     <iframe class="responsive-iframe" src="../data-visualisation/ratio/women-to-men.html"></iframe> 
@@ -202,5 +202,5 @@ One of the possible ways of going beyond this rudimentary understanding of repre
 The thresholds in the graphs signify equal distribution of words. Interestingly, only *The Way of the World* seems to have a balanced distribution from a gendered perspective, having a ratio that is close to 1.
 <br/>
 <br/>
-{% include page-change.html next="Next Page" next_width=50 next_link="/analysis/average_speech_length.html" %}
+{% include page-change.html next="Next Page" next_width=75 next_link="/analysis/average_speech_length.html" previous="Previous Page" previous_width=75 previous_link="/methodology.html" %}
 

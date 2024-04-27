@@ -28,4 +28,4 @@ In this set of tests, I have considered an uninterrupted portion of text spoken 
 Having a high average score indicates toward the character's wordiness in the play. For example, as Mirabell's average speech length is higher than that of Millamant in the fourth act, it hints at his verbal dominance over her, which is especially relevant due to the proviso scene.
 <br/>
 <br/>
-{% include page-change.html next="Next Page" next_width=50 next_link="/analysis/flesch_kincaid.html" previous="Previous Page" previous_width=50 previous_link="/analysis/ratio.html" %}
+{% include page-change.html next="Next Page" next_width=75 next_link="/analysis/flesch_kincaid.html" previous="Previous Page" previous_width=75 previous_link="/analysis/ratio.html" %}
