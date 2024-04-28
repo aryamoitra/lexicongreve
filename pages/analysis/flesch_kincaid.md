@@ -3,6 +3,7 @@ title: Flesch-Kincaid Readability Tests
 analysis_menu_nav: Flesch-Kincaid Readability Tests
 analysis_menu_nav_order: 2
 layout: page-narrow
+mathjax: include
 ---
 
 <hr/>
