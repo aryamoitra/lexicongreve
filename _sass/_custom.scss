@@ -92,3 +92,8 @@ body {
 .analysis-dropdown .dropdown-item:hover {
     background-color: #000000;
 }
+
+/* Make the formulae within MathJax Environment responsive */
+.responsive-mathjax {
+    font-size: clamp(12px, 2vw, 19px);
+}
