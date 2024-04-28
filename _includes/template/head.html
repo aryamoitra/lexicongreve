@@ -18,8 +18,11 @@
 <!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->
 
 <!-- Add MathJax -->
+{% assign analysis_pages = site.html_pages | where_exp: 'p', 'p.mathjax == "include"'%}
+{% for p in analysis_pages %}
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endfor %}
 
 <!--- Set website icon -->
 <link rel='icon' href='/lexicongreve/images/icons/lexicongreve-logo-v2-32x32.ico' type='image/x-icon'>
