@@ -8,11 +8,15 @@ layout: page-narrow
 <hr/>
 The Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) are two frequently used formulas for determining readability. Both formulas utilise the number of syllables, words, and sentences. While higher FRE scores suggest easier readability, FKGL scores correspond to US grade levels. The FKGL and FRE formulas have been provided below.  
 
-**Flesch Reading Ease:**
-{% include figure.html img="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd4916e193d2f96fa3b74ee258aaa6fe242e110e" alt="The Flesch Reading-Ease Formula" %}
+**Flesch Reading-Ease:**
+{% raw %}
+<p class="responsive-mathjax">$$ 206.835 - 1.015 \left( \frac{{\text{total words}}}{{\text{total sentences}}} \right) - 84.6 \left( \frac{{\text{total syllables}}}{{\text{total words}}} \right) $$</p>
+{% endraw %}
 
 **Flesch-Kincaid Grade Level:**
-{% include figure.html img="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e68f5fc959d052d1123b85758065afecc4150c3" alt="The Flesch Grade Level Formula" %}
+{% raw %}
+<p class="responsive-mathjax">$$ 0.39 \left( \frac{{\text{total words}}}{{\text{total sentences}}} \right) + 11.8 \left( \frac{{\text{total syllables}}}{{\text{total words}}} \right) - 15.59 $$</p>
+{% endraw %}
 
 Applying the formulas to all the lines spoken by a character can yield interesting results. The following bar graphs represent the scores. The dashed line in each graph represents the mean of the scores. Only the characters who have spoken a significant number of words (100 or more) have been considered for these tests as using a very small sample size may lead to misleading results.
 
