@@ -8,7 +8,7 @@ LexiCongreve features a demonstration of data visualisation based on William Con
 - **Flesch-Kincaid Readability Tests:** Applying the Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) formulas on all of the lines spoken by each character, the resulting scores are displayed using bar graphs and scatter plots.
 
 ## Viewing the Visualisations
-To view the visualisations, visit the <a href="https://aryamoitra.github.io/lexicongreve/" target="_blank">static website</a> in your browser.
+Visit the <a href="https://aryamoitra.github.io/lexicongreve/" target="_blank">website</a> to view the visualisations. The graphs are best viewed on a PC. If you are using a phone, consider switching to landscape mode or desktop mode for a better experience.
 
 ## Methodology
 The XML-encoded textual content was sourced from <a href="https://earlyprint.org/" target="_blank">EarlyPrint</a>. The data was extracted, analysed, and visualised using <a href="https://www.python.org/" target="_blank">Python</a> and various libraries, such as the <a href="https://www.nltk.org/" target="_blank">Natural Language Toolkit (NLTK)</a>, <a href="https://github.com/mholtzscher/syllapy" target="_blank">syllapy</a>, <a href="https://docs.python.org/3/library/statistics.html" target="_blank">statistics</a>, <a href="https://pandas.pydata.org/" target="_blank">pandas</a>, and <a href="https://plotly.com/python/" target="_blank">plotly</a>. A detailed description of the methodology can be found <a href="https://aryamoitra.github.io/lexicongreve/pages/methodology.html" target="_blank">here</a>.
