@@ -21,7 +21,7 @@ The Flesch-Kincaid Grade Level (FKGL) and the Flesch Reading-Ease (FRE) are two 
 
 Applying the formulas to all the lines spoken by a character can yield interesting results. The following bar graphs represent the scores. The dashed line in each graph represents the mean of the scores. Only the characters who have spoken a significant number of words (100 or more) have been considered for these tests as using a very small sample size may lead to misleading results.
 
-{% include landscape-mode-text.html %}
+{% include switch-mode-text.html %}
 
 <div class="container-responsive-iframe" style="padding-top: 85%">
     <iframe class="responsive-iframe" src="../../data-visualisation/flesch-kincaid/bar-graphs/tob_men_flesch_kincaid_bar.html"></iframe> 
