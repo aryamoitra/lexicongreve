@@ -6,7 +6,7 @@ layout: page-narrow
 ---
 
 <hr/>
-In this set of tests, I have considered an uninterrupted portion of text spoken by a character as a unit of speech. So, in this context, the average word count of a character's total number of speeches is the average speech length for the character. The average speech length per act for every character can be observed through the line graphs below. Different modes can be seleted using the dropdown menu at the top right of every graph. The modes are self-explanatory except perhaps "custom", which removes all the lines to let the viewer choose specific characters from the legend on the right side. Futhermore, double-clicking on any character's name in the legend hides others' visible lines, if any, isolating the chosen character's data.
+In this set of tests, I have considered an uninterrupted portion of text spoken by a character as a unit of speech. So, in this context, the average word count of a character's speeches is the average speech length of the character. The average speech length per act for every character can be observed through the line graphs below. Different modes can be seleted using the dropdown menu at the top right of every graph. The modes are self-explanatory except perhaps "custom", which removes all the lines to let the viewer choose specific characters from the legend on the right side. Futhermore, double-clicking on any character's name in the legend hides others' visible lines, if any, isolating the chosen character's data.
 
 {% include switch-mode-text.html %}
 
