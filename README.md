@@ -25,5 +25,5 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Ackowledgements
+## Acknowledgements
 This project was created for the Digital Humanities and Cultural Informatics (DHCI) course offered by the School of Cultural Texts and Records (SCTR), Jadavpur University. A special thanks goes out to Subha Prasad Sanyal for his invaluable support. Furthermore, the completion of this project would not have been possible without the constant guidance from the instructors at SCTR.
