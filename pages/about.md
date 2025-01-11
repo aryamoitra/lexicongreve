@@ -1,5 +1,5 @@
 ---
-title: About This Page
+title: About the Project
 layout: page-narrow
 ---
 
